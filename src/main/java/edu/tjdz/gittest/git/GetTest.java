@@ -8,6 +8,7 @@ public class GetTest {
         System.out.println("3");
         System.out.println("hot-fix commit1");
         System.out.println("master");
+        System.out.println("hot2");
 
     }
 
