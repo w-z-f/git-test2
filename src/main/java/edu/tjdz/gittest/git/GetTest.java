@@ -10,6 +10,7 @@ public class GetTest {
         System.out.println("master");
         System.out.println("hot2");
         System.out.println("push Github");
+         System.out.println("pull Github");
 
     }
 
