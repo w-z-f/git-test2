@@ -9,6 +9,7 @@ public class GetTest {
         System.out.println("hot-fix commit1");
         System.out.println("master");
         System.out.println("hot2");
+        System.out.println("push Github");
 
     }
 
